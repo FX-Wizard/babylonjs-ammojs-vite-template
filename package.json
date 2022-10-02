@@ -1,0 +1,19 @@
+{
+  "name": "babylonjs-ammojs-vite-template",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^3.1.0"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^5.24.0",
+    "@babylonjs/loaders": "^5.24.0",
+    "ammo.js": "github:kripken/ammo.js"
+  }
+}
